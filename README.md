@@ -11,3 +11,7 @@ To compile the program yourself, you need g++ and ncurses downloaded this syntax
 g++ <name of .cpp program> -lncurses -o <name and/or path you want the output to have>
 
 When pressing ESC the designated amount of times, wait a couple seconds before pressing anything.
+
+## Keybinds:
+
+CTRL+o
